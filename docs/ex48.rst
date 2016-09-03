@@ -1,0 +1,30 @@
+ex48 package
+============
+
+Submodules
+----------
+
+ex48.lexicon module
+-------------------
+
+.. automodule:: ex48.lexicon
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+ex48.parser module
+------------------
+
+.. automodule:: ex48.parser
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: ex48
+    :members:
+    :undoc-members:
+    :show-inheritance:
