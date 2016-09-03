@@ -23,7 +23,7 @@ def scan(stuff):
             elif i in Stops:
                 y = ("stop", i)
             elif i in Nouns:
-                y = ("noUN", i)
+                y = ("noun", i)
             elif convert_numbers(i) is not None:
                 y = ("number", convert_numbers(i))
             else:
